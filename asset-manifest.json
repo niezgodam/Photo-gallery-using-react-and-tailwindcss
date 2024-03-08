@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Photo-gallery-using-react-and-tailwindcss/static/css/main.1278494a.css",
+    "main.js": "/Photo-gallery-using-react-and-tailwindcss/static/js/main.ef853793.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Photo-gallery-using-react-and-tailwindcss/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Photo-gallery-using-react-and-tailwindcss/index.html",
+    "main.1278494a.css.map": "/Photo-gallery-using-react-and-tailwindcss/static/css/main.1278494a.css.map",
+    "main.ef853793.js.map": "/Photo-gallery-using-react-and-tailwindcss/static/js/main.ef853793.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Photo-gallery-using-react-and-tailwindcss/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1278494a.css",
+    "static/js/main.ef853793.js"
+  ]
+}
